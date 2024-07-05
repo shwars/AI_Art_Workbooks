@@ -15,7 +15,7 @@ Notebook | Content | Open
 [Text Generation Workbook](TextGenerationWorkbook.ipynb) | Train bidirectional LSTM model to generate text, either using character-level or word-level tokenization | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shwars/AI_Art_Workbooks/blob/main/TextGenerationWorkbook.ipynb)
 [Cognitive Portrait Workshop](http://github.com/shwars/CognitivePortraitWorkshop) | Create [Cognitive Portraits](https://soshnikov.com/art/peopleblending/) from a set of photographs | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shwars/CognitivePortraitWorkshop/blob/main/CognitivePortraitWorkshop.ipynb)
 [LLM Theatre](LLM_Theatre.ipynb) | Experiment with multiple LLMs chatting to each other | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shwars/AI_Art_Workbooks/blob/main/LLM_Theatre.ipynb)
-
+[GPT Finetune](GPT_Finetune.ipynb) | Fine-tune ruGPT-3.5 model on text file | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shwars/AI_Art_Workbooks/blob/main/GPT_Finetune.ipynb)
 
 ## Other Useful Notebooks
 
