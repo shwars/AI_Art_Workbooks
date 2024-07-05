@@ -14,6 +14,8 @@ Notebook | Content | Open
 [Style Transfer](StyleTransfer.ipynb) | Demonstrate how to use Style Transfer model from TensorFlow Hub, and how to apply style transfer to a video | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shwars/AI_Art_Workbooks/blob/main/StyleTransfer.ipynb)
 [Text Generation Workbook](TextGenerationWorkbook.ipynb) | Train bidirectional LSTM model to generate text, either using character-level or word-level tokenization | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shwars/AI_Art_Workbooks/blob/main/TextGenerationWorkbook.ipynb)
 [Cognitive Portrait Workshop](http://github.com/shwars/CognitivePortraitWorkshop) | Create [Cognitive Portraits](https://soshnikov.com/art/peopleblending/) from a set of photographs | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shwars/CognitivePortraitWorkshop/blob/main/CognitivePortraitWorkshop.ipynb)
+[LLM Theatre](LLM_Theatre.ipynb) | Experiment with multiple LLMs chatting to each other | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shwars/AI_Art_Workbooks/blob/main/LLM_Theatre.ipynb)
+
 
 ## Other Useful Notebooks
 
